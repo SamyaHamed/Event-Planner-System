@@ -1,5 +1,8 @@
 # 📅 Event Planner System
 
+![Preview](image.png)
+
+
 A **Java console-based application** designed to manage events and user accounts (Users, Service Providers, and Admins). The system supports event creation, search, booking, profile management, and full administrative control.
 
 
