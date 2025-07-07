@@ -2,7 +2,7 @@
 
 A **Java console-based application** designed to manage events and user accounts (Users, Service Providers, and Admins). The system supports event creation, search, booking, profile management, and full administrative control.
 
----
+
 
 ## 📚 Table of Contents
 
@@ -20,7 +20,7 @@ A **Java console-based application** designed to manage events and user accounts
 - [🤝 Contributing](#contributing)
 - [📄 License](#license)
 
----
+
 
 ## 📌 Introduction
 
@@ -30,7 +30,7 @@ The **Event Planner System** is a command-line based event management system imp
 - Service Providers (create & manage events)
 - Admins (system oversight and analytics)
 
----
+
 
 ## ✨ Features
 
@@ -40,7 +40,7 @@ The **Event Planner System** is a command-line based event management system imp
 - Role-based access (User / Service Provider / Admin)
 - Profile editing (first name, last name, email, password)
 
----
+
 
 ### 👤 User Features
 
@@ -55,7 +55,7 @@ The **Event Planner System** is a command-line based event management system imp
 - 🔔 View booking notifications and general announcements
 - 🖼️ View event images
 
----
+
 
 ### 🏢 Service Provider Features
 
@@ -68,7 +68,7 @@ The **Event Planner System** is a command-line based event management system imp
 - 📅 View upcoming events in a calendar view
 - 🔔 Manage reservation requests (accept/reject)
 
----
+
 
 ### 🛠️ Admin Features
 
@@ -80,7 +80,7 @@ The **Event Planner System** is a command-line based event management system imp
 - ✅ Manage service provider registration requests
 - 📢 Send announcements to all users
 
----
+
 
 ## 🚀 Getting Started
 
@@ -96,5 +96,5 @@ The **Event Planner System** is a command-line based event management system imp
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/SamyaHamed/Event-Planner-System.git>
    cd EventPlannerSystem
