@@ -81,4 +81,4 @@ The **Event Planner System** is a command-line based event management system imp
 
    ```bash
    git clone <https://github.com/SamyaHamed/Event-Planner-System.git>
-   cd EventPlannerSystem
+
