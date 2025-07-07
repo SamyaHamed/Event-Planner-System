@@ -6,25 +6,6 @@
 A **Java console-based application** designed to manage events and user accounts (Users, Service Providers, and Admins). The system supports event creation, search, booking, profile management, and full administrative control.
 
 
-
-## 📚 Table of Contents
-
-- [📌 Introduction](#introduction)
-- [✨ Features](#features)
-  - [🔑 General Features](#general-features)
-  - [👤 User Features](#user-features)
-  - [🏢 Service Provider Features](#service-provider-features)
-  - [🛠️ Admin Features](#admin-features)
-- [🚀 Getting Started](#getting-started)
-  - [📦 Prerequisites](#prerequisites)
-  - [⚙️ Installation](#installation)
-  - [▶️ Running the Application](#running-the-application)
-- [🗂️ File Structure](#file-structure)
-- [🤝 Contributing](#contributing)
-- [📄 License](#license)
-
-
-
 ## 📌 Introduction
 
 The **Event Planner System** is a command-line based event management system implemented in Java. It provides a multi-role experience with functionality tailored to:
